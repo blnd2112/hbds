@@ -17,7 +17,7 @@ def add_bg_from_local(image_file):
     """,
     unsafe_allow_html=True
     )
-add_bg_from_local(r'C:\Users\Blnd\PycharmProjects\hbds\aaa.png')
+add_bg_from_local(r'aaa.png')
 hide_streamlit_style = """
             <style>
             #MainMenu {visibility: hidden;}
@@ -64,7 +64,7 @@ original_title1 = '<p style="font-family: Arial, sans-serif; font-weight: bold; 
 st.markdown(original_title1, unsafe_allow_html=True)
 
 
-st.audio(r"C:\Users\Blnd\PycharmProjects\hbds\bb.mp3", format="audio/*")
+st.audio(r"bb.mp3", format="audio/*")
 
 original_title1 = '<p style="font-family: Arial, sans-serif; font-weight: bold; color: Black; font-size: 30px;">shayani zor lawash zyatri ❤️</p>'
 st.markdown(original_title1, unsafe_allow_html=True)
