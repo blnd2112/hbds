@@ -2,7 +2,7 @@ import streamlit as st
 import time
 import base64
 
-st.set_page_config(page_title="HAPPY BIRTHDAY SALWA", layout="wide")
+st.set_page_config(page_title="SALWA", layout="wide")
 def add_bg_from_local(image_file):
     with open(image_file, "rb") as image_file:
         encoded_string = base64.b64encode(image_file.read())
