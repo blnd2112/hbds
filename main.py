@@ -56,15 +56,15 @@ st.balloons()
 st.balloons()
 st.balloons()
 
-original_title = '<p style="font-family: Arial, sans-serif; font-weight: bold; color: Black; font-size: 20px;">SALWAAA rozhe la daykbunt peroz be mashallaa buya 17 sal bas heshta per but pewa dyar nia, inshallah 17 salit zor la salakani de xoshtr dabe u hamu sht ba dle xot dabe u dur dabe la nafare xrap, salwa atu zor sht buy lo mn la zor sht yarmatimt da  ka brasti kas naykrd u shanazit pewa dakam u atu taka kchi ka bradarmi chunka kas nia wchi tu awha jey siqa bi, qat nabua qsaki bkam laknt u ley pashiman bbmawa chunka har ba jde zor jey siqay, 7azm krd awjara ba shewaki jyawaz pet blem loya aw websitem drust krd hewadarm ba dlt be, ba zor drezhay pe nadam ba nusin AI bram tawaw daka ❤️❤️ </p>'
+original_title = '<p style="font-family: Arial, sans-serif; font-weight: bold; color: Black; font-size: 20px;">Rozhe la dayk bunt peroz bi salwaaa, salwa xoshtrin rozhe mna chunka awro rozhe tua awro rozhe jwantrin u sweet trin kasa la hamu dniaa loya amn darem awro xoshtrin rozha la hamu dniaa, salwa ager bmawe wasfi bashi tu bkam qat natanm chunka awanda bashi awanda bashi nak bas yak website ba millonana websitesh natanm salwa, salwa xoshtrin waxtakani zhyanm lagal tu bua chunka taka sarchawe xoshi la zhyani mn u hamu jare darem alhamdullah ka atu la zhianmi u bajde zhyanm zor zor naxosh dabu be tu, har chrkak qsa krdn lagal tu lo mn handi 20 sal dl xoshi bua, bajde nazanm ku har supasisht bkam u padashtt bdamawa 😭😭, salwa ka datbinm pe dakani dlm zor zor pr dabe la xoshian jare wa haya grianm de la xoshian u atu ba pekanint hamu dnia runak dakay jare chawtt mashalla mashalla bajde zor zor jwana zoor briqadara wchi mang, u wa3dt pe dadam ka hamu hawli xom bdam har la xoshi btherm u qat qat naxoshi nabini u har shtaki naxosha hata peshman hawl dadam be away hastish pe bkay laydam la peshman u hamu hamu sht dakam bas ta ba pekanin btbinm, u salwa atu lo mn taybat trin kasi yakam sht labar away amn darem family > bradar u nafare de, amn atush ba yakak la family xom dadanem u dwam sht chunka amn atum halbzhardia wchi future wife, u inehallah inshalla aw shta dabta rasti, salwa amn atum halbzhard chunka dazanm bash dabe lom chunka dazanm malm runak dakaiawa chunka dazanm qat dlm nashkeni chunka dazanm qat xamm nadye chunka dazanm dakaki bash dabe lo mndalakanm u dazanm lagal tu bm mndalaknm xoshtrin zhyan dazhin chunka amn qat qat dlian nashkenm u be nazian nakam u chian bwe loyan dakam u dazanm atush awha dabe lagalian u amnish awam dawe, salwa loya ba kurti darem damawe pr ba dl damawe zhyanm hamu lagal tu bi u lagal tu bzhim u hamu tamanm lagal tu basar bbam u a3elak danem ka nmunay bashi u nmunay axlaq bi, u dazanm a3elaki awha bas lagal tu dakre bass chunka atu baxot way </p>'
 
 st.markdown(original_title, unsafe_allow_html=True)
 
-original_title1 = '<p style="font-family: Arial, sans-serif; font-weight: bold; color: Black; font-size: 50px;">👇</p>'
+original_title1 = '<p style="font-family: Arial, sans-serif; font-weight: bold; color: Black; font-size: 50px;"> </p>'
 st.markdown(original_title1, unsafe_allow_html=True)
 
 
-st.audio(r"bb.mp3")
+st.audio(r"aa.mp3")
 
-original_title1 = '<p style="font-family: Arial, sans-serif; font-weight: bold; color: Black; font-size: 30px;">shayani zor lawash zyatri ❤️</p>'
+original_title1 = '<p style="font-family: Arial, sans-serif; font-weight: bold; color: Black; font-size: 30px;">shayani zor lawash zyatri hamu dniam ❤️</p>'
 st.markdown(original_title1, unsafe_allow_html=True)
